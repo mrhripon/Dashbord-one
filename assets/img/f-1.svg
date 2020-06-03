@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31" height="24" viewBox="0 0 31 24">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 32 24">
+      <image width="32" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAYAAACbU/80AAAAAXNSR0IArs4c6QAAAKtJREFUSA1jnMDAIP6fgXXPfwYGHQY6AkYGhiuMDL9dWAbCcpA/IR5m3QN0AMTnfkK8dPQ/A8Omd5/BjmCiq61YLBt1wGgIsHyZOIOBnY2NQTIxAksSoZ3Ql5mLwIaPRsFoCIyGwICHAKOIZRuwQmRgUNK0pF2mx2LyvevHwaIDHgKjDhgNARZQ6xTULoSlSiwJlmZCQLvPMzH+++8CtOEazWzBYTDIcqDdngB7JiWJ72tLOgAAAABJRU5ErkJggg=="/>
+    </pattern>
+  </defs>
+  <rect id="iconfinder_flag-the-netherlands_748017" width="31" height="24" fill="url(#pattern)"/>
+</svg>

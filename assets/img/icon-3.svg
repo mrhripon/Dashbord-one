@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="18" viewBox="0 0 20 18">
+  <g id="icon_Mail_select" data-name="icon/Mail/select" transform="translate(0 -0.349)">
+    <rect id="icon_Mail_select_background" data-name="icon/Mail/select background" width="20" height="18" transform="translate(0 0.349)" fill="rgba(0,0,0,0)"/>
+    <g id="icon" style="isolation: isolate">
+      <rect id="Rectangle" width="8" height="8" rx="2" transform="translate(0 0.349)" fill="#fff"/>
+      <rect id="Rectangle-2" data-name="Rectangle" width="8" height="8" rx="2" transform="translate(10 0.349)" fill="#fff"/>
+      <rect id="Rectangle-3" data-name="Rectangle" width="8" height="8" rx="2" transform="translate(0 10.349)" fill="#fff"/>
+      <rect id="Rectangle-4" data-name="Rectangle" width="8" height="8" rx="2" transform="translate(10 10.349)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

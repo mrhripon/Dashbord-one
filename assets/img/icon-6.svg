@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="18.144" viewBox="0 0 20 18.144">
+  <g id="icon_Mail_select" data-name="icon/Mail/select" transform="translate(0 0.119)" opacity="0.8">
+    <rect id="icon_Mail_select_background" data-name="icon/Mail/select background" width="20" height="18" transform="translate(0 -0.119)" fill="rgba(0,0,0,0)"/>
+    <g id="_080-layout" data-name="080-layout">
+      <path id="Shape" d="M15.434,18H2.566A2.569,2.569,0,0,1,0,15.434V2.566A2.569,2.569,0,0,1,2.566,0H15.434A2.569,2.569,0,0,1,18,2.566V15.434A2.569,2.569,0,0,1,15.434,18ZM2.566,1.454A1.113,1.113,0,0,0,1.454,2.566V15.434a1.113,1.113,0,0,0,1.112,1.112H15.434a1.113,1.113,0,0,0,1.112-1.112V2.566a1.113,1.113,0,0,0-1.112-1.112Z" transform="translate(0 -0.119)" fill="#fff"/>
+      <path id="Path" d="M17.07,0H.719a.719.719,0,0,0,0,1.437H17.07A.719.719,0,1,0,17.07,0Z" transform="translate(0.354 5.687)" fill="#fff"/>
+      <path id="Path-2" data-name="Path" d="M.719,0A.719.719,0,0,0,0,.719v10.9a.719.719,0,1,0,1.437,0V.719A.719.719,0,0,0,.719,0Z" transform="translate(5.805 5.687)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
